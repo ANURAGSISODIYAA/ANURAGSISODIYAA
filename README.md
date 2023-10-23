@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Header" width="100%" height="auto">
-</p>
 
 <h1 align="center">Hello, I'm Anurag Sisodiya 👋</h1>
 <h3 align="center">Passionate Java Developer from India</h3>
