@@ -1,4 +1,3 @@
-![github-header-image](https://github.com/ANURAGSISODIYAA/ANURAGSISODIYAA/assets/122148320/b24bd6cd-d940-4b4a-a7d6-fc46e76e1d56)
 <h1 align="center">Hi 👋, I'm Anurag Sisodiya</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 # 💫 About Me:<br>
