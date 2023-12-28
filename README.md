@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anurag Sisodiya</h1>
-<h3 align="center">Passionate Java Developer from India</h3>
+<h3 align="center">Aspiring Full Stack Java Developer from India</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning DevOps and Frontend Development<br>
