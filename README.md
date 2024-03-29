@@ -34,28 +34,3 @@
   
 </div>
 
-###
-
-<h3 align="left">Socials:</h3>
-
-<p align="left">
-  <a href="https://twitter.com/anuragxsisodiya" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuragxsisodiya" height="30" width="40"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://linkedin.com/in/anurag-sisodiya-64a202252" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-sisodiya-64a202252" height="30" width="40"/>
-  </a>&nbsp;&nbsp;
-  
-  <a href="mailto:example@gmail.com" target="_blank" rel="noreferrer">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="40"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.leetcode.com/perseverance21" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="perseverance21" height="30" width="40"/>
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://www.codechef.com/users/anuragxietdavv" target="_blank" rel="noreferrer">
-    <img align="center" src="https://asset.brandfetch.io/idM2-b7Taf/id1MciwQyR.jpeg?updated=1710586536714" alt="codechef" height="30" width="40"/>
-  </a>
-</p>
